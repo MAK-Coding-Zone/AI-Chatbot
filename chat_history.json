@@ -1,0 +1,32 @@
+[
+    {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2025-03-04 01:29:59"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "timestamp": "2025-03-04 01:30:02"
+    },
+    {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2025-03-04 01:30:12"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you?",
+        "timestamp": "2025-03-04 01:30:14"
+    },
+    {
+        "role": "user",
+        "content": "what is the process of making biryani?",
+        "timestamp": "2025-03-04 01:30:34"
+    },
+    {
+        "role": "assistant",
+        "content": "Making biryani is a multi-step process that involves marinating the protein (such as meat or vegetables), cooking the rice separately, and then layering and assembling everything together to cook in a pot. Here is a general overview of the process:\n\n1. Marinate the protein with yogurt, spices, and aromatics for at least 30 minutes to several hours.\n2. Parboil the rice with whole spices and salt until it is partially cooked.\n3. In a large pot, layer the marinated protein at the bottom, followed by a layer of partially cooked rice.\n4. Add another layer of rice on top of the protein, along with fried onions, fresh herbs, and saffron-infused milk.\n5. Seal the pot with a tight-fitting lid or aluminum foil to trap the steam.\n6. Cook on low heat for about 30-45 minutes until the protein is cooked through and the rice is fully cooked and fluffy.\n7. Allow the biryani to rest for a few minutes before serving.\n\nThis is a simplified version of the biryani-making process, as there are many regional variations and different ingredients that can be used. Feel free to customize the recipe to suit your taste preferences!",
+        "timestamp": "2025-03-04 01:30:38"
+    }
+]
